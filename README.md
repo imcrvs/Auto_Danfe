@@ -1,6 +1,6 @@
 # Auto_Danfe
 
-Auto_Danfe é uma ferramenta simples, leve e eficaz desenvolvida em Python para monitorar automaticamente uma pasta específica em busca de arquivos XML de notas fiscais, convertendo-os para PDF através de uma API e salvando-os em outra pasta. Além disso, o programa realiza automaticamente sua instalação, copiando o executável para "C:\Program Files\Auto_Danfe", criando atalhos das pastas XML e Danfes na área de trabalho e configurando sua execução automática na inicialização do Windows.
+Auto_Danfe é uma ferramenta simples, desenvolvida em Python para monitorar automaticamente uma pasta específica em busca de arquivos XML de notas fiscais, convertendo-os para PDF através de uma API e salvando-os em outra pasta. Além disso, o programa realiza automaticamente sua instalação, copiando o executável para "C:\Program Files\Auto_Danfe", criando atalhos das pastas XML e Danfes na área de trabalho e configurando sua execução automática na inicialização do Windows.
 
 -------------------------------------------------------------------------------
 
@@ -115,6 +115,4 @@ LICENÇA:
 
 MIT License.
 
-CONTATO:
-
-Para dúvidas ou sugestões, entre em contato através do seu email.
+CONTATO: marcos@demarcco.com.br ou contato@demarcco.com.br
